@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Name: BlueMoonPort
   m_EditorClassIdentifier: 
   m_AnimatedSprites:
-  - {fileID: 21300018, guid: 95ee81d58348f4d1c98baa2143ae4b31, type: 3}
-  - {fileID: 21300058, guid: 95ee81d58348f4d1c98baa2143ae4b31, type: 3}
-  - {fileID: 21300098, guid: 95ee81d58348f4d1c98baa2143ae4b31, type: 3}
-  - {fileID: 21300138, guid: 95ee81d58348f4d1c98baa2143ae4b31, type: 3}
+  - {fileID: 21300170, guid: 95ee81d58348f4d1c98baa2143ae4b31, type: 3}
+  - {fileID: 21300172, guid: 95ee81d58348f4d1c98baa2143ae4b31, type: 3}
+  - {fileID: 21300174, guid: 95ee81d58348f4d1c98baa2143ae4b31, type: 3}
+  - {fileID: 21300176, guid: 95ee81d58348f4d1c98baa2143ae4b31, type: 3}
   m_MinSpeed: 1
   m_MaxSpeed: 1
   m_AnimationStartTime: 0

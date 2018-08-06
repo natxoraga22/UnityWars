@@ -88,6 +88,19 @@ TextureImporter:
     21300166: Tilesheet_Buildings_83
     21300168: Tilesheet_Buildings_84
     21300170: Tilesheet_Buildings_85
+    21300172: Tilesheet_Buildings_86
+    21300174: Tilesheet_Buildings_87
+    21300176: Tilesheet_Buildings_88
+    21300178: Tilesheet_Buildings_89
+    21300180: Tilesheet_Buildings_90
+    21300182: Tilesheet_Buildings_91
+    21300184: Tilesheet_Buildings_92
+    21300186: Tilesheet_Buildings_93
+    21300188: Tilesheet_Buildings_94
+    21300190: Tilesheet_Buildings_95
+    21300192: Tilesheet_Buildings_96
+    21300194: Tilesheet_Buildings_97
+    21300196: Tilesheet_Buildings_98
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -195,7 +208,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 046a0a58d487e4f89a449867bf9b6cc1
+      spriteID: 3f29ed49b15cd44baa70a33e223c56a0
       vertices: []
       indices: 
       edges: []
@@ -215,7 +228,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d02322397037453894579482cec4c2f
+      spriteID: 4a0657fe4203f48de818fd1d4e619cd4
       vertices: []
       indices: 
       edges: []
@@ -235,7 +248,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ae77108f300f49d28007918c8120e7f
+      spriteID: f34380ae79e4846868d4395c18672738
       vertices: []
       indices: 
       edges: []
@@ -255,7 +268,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ab850115104a4d2b9e4c24790aa12d8
+      spriteID: c451adce2165d4474aab7926bd430c58
       vertices: []
       indices: 
       edges: []
@@ -275,7 +288,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 151c8dadde66147929debe2d9e50c365
+      spriteID: 00ad1c43f9f044f4bb92dd7606114574
       vertices: []
       indices: 
       edges: []
@@ -295,7 +308,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c280c4813b67246a3bdf54578987b95a
+      spriteID: ab12c633ace034b448127efccf4cce6e
       vertices: []
       indices: 
       edges: []
@@ -315,7 +328,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cab1b131ee2304028bd4ef1f3389ae9b
+      spriteID: 0eac25ff1208c406185a0ee55e64a184
       vertices: []
       indices: 
       edges: []
@@ -335,7 +348,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2f377ee0e69340c9849e611c5d52d67
+      spriteID: fd80ce80642f149a983471efded4da63
       vertices: []
       indices: 
       edges: []
@@ -355,7 +368,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9935a021a49924376b2a897550760ef6
+      spriteID: 6b2c98205db80409ea5f6c57a79f5bdf
       vertices: []
       indices: 
       edges: []
@@ -375,7 +388,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 932c5f7cd51aa4aaf877b5e7de65860b
+      spriteID: 8a31180e6f7e345df9994cace72cc93e
       vertices: []
       indices: 
       edges: []
@@ -395,7 +408,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5aa942041dd344340a6cbe29f8e623a7
+      spriteID: 4a5eacb14f222435395a1de6c5e8c546
       vertices: []
       indices: 
       edges: []
@@ -415,7 +428,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c2a3b264d743448dbd49c91c7162c76
+      spriteID: 7600d2ab6e2f243bab649c301f70741c
       vertices: []
       indices: 
       edges: []
@@ -435,7 +448,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b35e404237fb448caa186399fc632178
+      spriteID: d14615d15cbde434dba44d549e1fd896
       vertices: []
       indices: 
       edges: []
@@ -455,7 +468,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 921681f3ed70b46718ad5d5d13e30624
+      spriteID: d987e818dda0a4ce8bdd8683b5132a49
       vertices: []
       indices: 
       edges: []
@@ -475,7 +488,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f18b60e67a1644653b2cd81acd81b303
+      spriteID: c5643a4608ec04f2c942f13d2386ab0b
       vertices: []
       indices: 
       edges: []
@@ -495,7 +508,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3bb43b16260d4b84a97d0618e828f6a
+      spriteID: f887a1e21a13e4499853fd876f458753
       vertices: []
       indices: 
       edges: []
@@ -515,7 +528,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3624966be4f1a4ed5bc8e18b23ce325e
+      spriteID: d4fc55c4cd0364a81bcc3dd95bfc7ed5
       vertices: []
       indices: 
       edges: []
@@ -535,7 +548,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5fc37118b16a4630a741b7bcc2051f4
+      spriteID: bbb96dd9aff5f48e796b975f1b48bc93
       vertices: []
       indices: 
       edges: []
@@ -555,7 +568,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc64b90342b5e4d2d864997c13f971b2
+      spriteID: 381599f0a12274cd19a06795f1725b44
       vertices: []
       indices: 
       edges: []
@@ -575,7 +588,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 988df52b8f2294e42b9a45cbec2bd329
+      spriteID: bc7b17f86024d46e48b102ae2a18db2d
       vertices: []
       indices: 
       edges: []
@@ -595,7 +608,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b54467c4721e140ffbe8f45a42cbd71d
+      spriteID: e4b3701bddf5c4297adfb0e4868a61d0
       vertices: []
       indices: 
       edges: []
@@ -615,7 +628,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d52f84981b1e945448bda23db87ec1e0
+      spriteID: 6c56b9651fc97475c871c9800480bd19
       vertices: []
       indices: 
       edges: []
@@ -635,7 +648,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6054f294e7dfa4f9197c881a5cd2a742
+      spriteID: 9f45e1a332f1a49da884e75fb24556b6
       vertices: []
       indices: 
       edges: []
@@ -655,7 +668,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57a80bd3db545408495d20463fb3db47
+      spriteID: 5e5d52d5f33374b0c85d5e2990c55751
       vertices: []
       indices: 
       edges: []
@@ -675,7 +688,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7185d6d52c2134117b48d3bd9f65ebcb
+      spriteID: 4cf42ec03318e468282a17fb72154f16
       vertices: []
       indices: 
       edges: []
@@ -695,7 +708,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47945ad064c03408e910fcec22cd5da5
+      spriteID: 6c9fd8229acb94d2faf280d07b1cce9b
       vertices: []
       indices: 
       edges: []
@@ -715,7 +728,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf649cb99f78943df816790ae29191a1
+      spriteID: 57524facbd3784a36a2b5b54bc910687
       vertices: []
       indices: 
       edges: []
@@ -735,7 +748,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6518eda5d7db452aaa9aa14de158ae9
+      spriteID: 11a165cca90bd48848a3adc1fda92fca
       vertices: []
       indices: 
       edges: []
@@ -755,7 +768,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c45a29306881048289e3b055716edb43
+      spriteID: e9f6c08b93e7a472babf3e95fc1a254c
       vertices: []
       indices: 
       edges: []
@@ -775,7 +788,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fac5a4daa91344d0da90b8ea39148e55
+      spriteID: 35068d9e3052648508f65f93092a9397
       vertices: []
       indices: 
       edges: []
@@ -795,7 +808,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb40b7534c96c4444b130dfa41687aef
+      spriteID: bae09cae564c847638de43bdd18629ba
       vertices: []
       indices: 
       edges: []
@@ -815,7 +828,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9734744a730fb4995a4f8b94feaa87a9
+      spriteID: 69d64d01c45124ae895f6c98d530a30a
       vertices: []
       indices: 
       edges: []
@@ -835,7 +848,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a88cb6d5bad9a476f832501e14e08ab1
+      spriteID: 25f74285578004931be0dd4c269578b4
       vertices: []
       indices: 
       edges: []
@@ -855,7 +868,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e9c40edcaf3f44e49835755b0b89bcc
+      spriteID: 651410770a5274353b184666ad32f2f1
       vertices: []
       indices: 
       edges: []
@@ -875,7 +888,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0965e1772082243a78ac65a9186605e0
+      spriteID: e11d929e00b5646f698d45adc2f35fbb
       vertices: []
       indices: 
       edges: []
@@ -895,7 +908,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b135b10aeec474b8f8bb66823b74a0db
+      spriteID: aa32594bc04cb4154a1f5b5a56d7cd32
       vertices: []
       indices: 
       edges: []
@@ -915,7 +928,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd86f21544435441e976bacf419f9bed
+      spriteID: fa3b0fb646b1a4719be8a31a98c8f6b3
       vertices: []
       indices: 
       edges: []
@@ -935,7 +948,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3723725cb456b4322a426b7c77318a43
+      spriteID: e2b1b850152ed428598eb795a7d64f27
       vertices: []
       indices: 
       edges: []
@@ -955,7 +968,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 311ad580bfdd9479bac573a39ca2c9ef
+      spriteID: 2b90d2bbd0d904791b82903007f2170d
       vertices: []
       indices: 
       edges: []
@@ -975,7 +988,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26d294db4c04a44b0be2c6fc34940f09
+      spriteID: e13c7d980d41347e7a530f1dfb4bc5ff
       vertices: []
       indices: 
       edges: []
@@ -984,8 +997,8 @@ TextureImporter:
       name: Tilesheet_Buildings_40
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
+        x: 320
+        y: 96
         width: 16
         height: 32
       alignment: 9
@@ -995,7 +1008,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3bdf431e94de7492491bb883da17564c
+      spriteID: eef5cc8e9c8384e68a08c883a62b1d0f
       vertices: []
       indices: 
       edges: []
@@ -1004,7 +1017,7 @@ TextureImporter:
       name: Tilesheet_Buildings_41
       rect:
         serializedVersion: 2
-        x: 16
+        x: 0
         y: 64
         width: 16
         height: 32
@@ -1015,7 +1028,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91974f57e08c4400997a220352ac0ebf
+      spriteID: f4206d92362044376bf72c7d8c7a1676
       vertices: []
       indices: 
       edges: []
@@ -1024,7 +1037,7 @@ TextureImporter:
       name: Tilesheet_Buildings_42
       rect:
         serializedVersion: 2
-        x: 32
+        x: 16
         y: 64
         width: 16
         height: 32
@@ -1035,7 +1048,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0b450739310c4ed88ca73f5a1fd68ff
+      spriteID: 71e5e3b2cc41447a18f1d905b6126c17
       vertices: []
       indices: 
       edges: []
@@ -1044,7 +1057,7 @@ TextureImporter:
       name: Tilesheet_Buildings_43
       rect:
         serializedVersion: 2
-        x: 48
+        x: 32
         y: 64
         width: 16
         height: 32
@@ -1055,7 +1068,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5cbb39424445a4b6f8483576e505b2c0
+      spriteID: 8f49d874734fe4f17966d0c677e978ff
       vertices: []
       indices: 
       edges: []
@@ -1064,7 +1077,7 @@ TextureImporter:
       name: Tilesheet_Buildings_44
       rect:
         serializedVersion: 2
-        x: 64
+        x: 48
         y: 64
         width: 16
         height: 32
@@ -1075,7 +1088,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1e63ef38e22e43ca90ccfb76b725fc7
+      spriteID: 8f30517060cf04cdda4b243cf23a951e
       vertices: []
       indices: 
       edges: []
@@ -1084,7 +1097,7 @@ TextureImporter:
       name: Tilesheet_Buildings_45
       rect:
         serializedVersion: 2
-        x: 80
+        x: 64
         y: 64
         width: 16
         height: 32
@@ -1095,7 +1108,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4347e12e3f42043269684e90562a75fe
+      spriteID: 9b525766757a84b33a8b871d518e3f57
       vertices: []
       indices: 
       edges: []
@@ -1104,6 +1117,26 @@ TextureImporter:
       name: Tilesheet_Buildings_46
       rect:
         serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41210556c003741379403bb9ca241b14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesheet_Buildings_47
+      rect:
+        serializedVersion: 2
         x: 96
         y: 64
         width: 16
@@ -1115,13 +1148,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ee4b703c0f9e4a869864895dba075d5
+      spriteID: 3cd379b73bb4e4129aff083d8447e63c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_47
+      name: Tilesheet_Buildings_48
       rect:
         serializedVersion: 2
         x: 112
@@ -1135,13 +1168,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 014ce116d69a1450a935d14b76ec9b79
+      spriteID: c07493def3d2c44eaad60feb504d7247
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_48
+      name: Tilesheet_Buildings_49
       rect:
         serializedVersion: 2
         x: 128
@@ -1155,13 +1188,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c552992f6c14741f6899a68a0a66f563
+      spriteID: 50a89ea42e45549f48d611e9f82b4b9a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_49
+      name: Tilesheet_Buildings_50
       rect:
         serializedVersion: 2
         x: 144
@@ -1175,13 +1208,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19a1e76bf90fe453580340aca102c367
+      spriteID: 9f1c59bd64c16469eaae249349185a50
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_50
+      name: Tilesheet_Buildings_51
       rect:
         serializedVersion: 2
         x: 160
@@ -1195,13 +1228,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b06690d1146bf4e46946239ef5f96a48
+      spriteID: 63b7734daea534fde8587842642ad034
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_51
+      name: Tilesheet_Buildings_52
       rect:
         serializedVersion: 2
         x: 176
@@ -1215,13 +1248,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0faaefc5e9b604da1950a59b59cd73f3
+      spriteID: b40b9339a6c304fff96caf1ec9e5351d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_52
+      name: Tilesheet_Buildings_53
       rect:
         serializedVersion: 2
         x: 192
@@ -1235,13 +1268,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98e07b4ea502648049deea2f5b49a58a
+      spriteID: b9d2f4dad655447779a9c6ad3f4ad179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_53
+      name: Tilesheet_Buildings_54
       rect:
         serializedVersion: 2
         x: 208
@@ -1255,13 +1288,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f60d4b03a51648bc9dccfe50c6d03fe
+      spriteID: ce07bc6662b3845f48dc981aecadb57d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_54
+      name: Tilesheet_Buildings_55
       rect:
         serializedVersion: 2
         x: 224
@@ -1275,13 +1308,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c7383843610d4eeebe664a06b2ef336
+      spriteID: 8b78ac0aba6af4d889d74aba806464dc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_55
+      name: Tilesheet_Buildings_56
       rect:
         serializedVersion: 2
         x: 240
@@ -1295,13 +1328,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 626276c81927e4fac966d0d3d01e0b8e
+      spriteID: 3ff2a21194b0e4cc991f7585912f34b9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_56
+      name: Tilesheet_Buildings_57
       rect:
         serializedVersion: 2
         x: 256
@@ -1315,13 +1348,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4503ad072d90f4d559b5b98802c0bf64
+      spriteID: f11c3f9f92edb40f9851f125ad7da3d7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_57
+      name: Tilesheet_Buildings_58
       rect:
         serializedVersion: 2
         x: 272
@@ -1335,13 +1368,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92a60d0abc85e447fb7471eaa561c73f
+      spriteID: 28ecc3ee581a9428db0bdcad4c8096a4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_58
+      name: Tilesheet_Buildings_59
       rect:
         serializedVersion: 2
         x: 288
@@ -1355,13 +1388,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4588102aa9c24c6f94edeefcdd0deb3
+      spriteID: 4218ab1d5ae26496f9feabc7c0c742c8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_59
+      name: Tilesheet_Buildings_60
       rect:
         serializedVersion: 2
         x: 304
@@ -1375,13 +1408,33 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 057223306b72b431cb13b620789b6a41
+      spriteID: 48fff631015e44cd38a022f213d20e84
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_60
+      name: Tilesheet_Buildings_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5daef781f014e1fa75638a18f84b62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesheet_Buildings_62
       rect:
         serializedVersion: 2
         x: 0
@@ -1395,13 +1448,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c79f262d2d5e24546ad0f6aa07f01bd2
+      spriteID: 501933d72a4a84fecbc6a226acb159b1
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_61
+      name: Tilesheet_Buildings_63
       rect:
         serializedVersion: 2
         x: 16
@@ -1415,13 +1468,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d0ff57e2a7324d64a9934915126d7ce
+      spriteID: 50b5a8e7020ea4ec18a7798d193ec697
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_62
+      name: Tilesheet_Buildings_64
       rect:
         serializedVersion: 2
         x: 32
@@ -1435,13 +1488,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20b4038e987dd4d129bf366cfbdb1380
+      spriteID: acffb16126f764fe3911db4881aadda3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_63
+      name: Tilesheet_Buildings_65
       rect:
         serializedVersion: 2
         x: 48
@@ -1455,13 +1508,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95b54146ba1d64e52a4f43b3d378c926
+      spriteID: 63539e0cf948b48928a13168f59caa71
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_64
+      name: Tilesheet_Buildings_66
       rect:
         serializedVersion: 2
         x: 64
@@ -1475,13 +1528,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76dc4056d7a3d4b168ccfae3913542b0
+      spriteID: a727e43761046463d83a8350f6a85485
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_65
+      name: Tilesheet_Buildings_67
       rect:
         serializedVersion: 2
         x: 80
@@ -1495,13 +1548,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5de45bba8e624b658840a93edb6640c
+      spriteID: 852de23b11f4a429d8312a1ec80bf2b4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_66
+      name: Tilesheet_Buildings_68
       rect:
         serializedVersion: 2
         x: 96
@@ -1515,13 +1568,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3b1bb06f825f4b03ab5446019c0808d
+      spriteID: 0f3dfb6a04d154d458bdd3392d570cbe
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_67
+      name: Tilesheet_Buildings_69
       rect:
         serializedVersion: 2
         x: 112
@@ -1535,13 +1588,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9122bf5c399db4b0dbfa828354b9bb40
+      spriteID: 6177afdf182204f6fb65e19352b5d73a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_68
+      name: Tilesheet_Buildings_70
       rect:
         serializedVersion: 2
         x: 128
@@ -1555,13 +1608,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 79b293d41ac3a47ed98122ad6e8f400f
+      spriteID: 38cc6fbb3426c4f02b053d31d83d5550
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_69
+      name: Tilesheet_Buildings_71
       rect:
         serializedVersion: 2
         x: 144
@@ -1575,13 +1628,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e9bd0849fbe244589542125f999dcd7
+      spriteID: d7168cfd327f8449aaad76aaa33ac952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_70
+      name: Tilesheet_Buildings_72
       rect:
         serializedVersion: 2
         x: 160
@@ -1595,13 +1648,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cab9979dd372145c5a5594d75ee1d885
+      spriteID: 0b03d362058d54f0581c6a3c17420b5e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_71
+      name: Tilesheet_Buildings_73
       rect:
         serializedVersion: 2
         x: 176
@@ -1615,13 +1668,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7592d0693d10a41299f555365fca99af
+      spriteID: ca0ea921d1dc1480e8d5a856d03323fc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_72
+      name: Tilesheet_Buildings_74
       rect:
         serializedVersion: 2
         x: 192
@@ -1635,13 +1688,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6428c7bef31344323ac4e9d738c37c8f
+      spriteID: 3e37221e0fc0044e09391facde33516d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_73
+      name: Tilesheet_Buildings_75
       rect:
         serializedVersion: 2
         x: 208
@@ -1655,13 +1708,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 49c1be02a5c9a4043bb86869d6f8ad61
+      spriteID: 2b525edc5df824477979fea999928daa
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_74
+      name: Tilesheet_Buildings_76
       rect:
         serializedVersion: 2
         x: 224
@@ -1675,13 +1728,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c44225e80bd224f76b3cb053acb306f8
+      spriteID: 005ae6812c60d41d6ab2de909305ebd7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_75
+      name: Tilesheet_Buildings_77
       rect:
         serializedVersion: 2
         x: 240
@@ -1695,13 +1748,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 218fe2cfc4a084b1eba7eb257778fb22
+      spriteID: dd164e9bc34ab4976ad022cdf7f1c001
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_76
+      name: Tilesheet_Buildings_78
       rect:
         serializedVersion: 2
         x: 256
@@ -1715,33 +1768,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b21902ab0d88e459491e25374209e32a
+      spriteID: 7c626e3ec1cde4a7ab5df6285c67ad4e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_77
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 32
-        width: 16
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.25}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ab15c7cff8961403d9df921fbddd43f6
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tilesheet_Buildings_78
+      name: Tilesheet_Buildings_79
       rect:
         serializedVersion: 2
         x: 288
@@ -1755,16 +1788,16 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 861b896a0522648b9b21368154d32a50
+      spriteID: 53c6bb5990ad14a7091aae0487deb87e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_79
+      name: Tilesheet_Buildings_80
       rect:
         serializedVersion: 2
-        x: 304
+        x: 320
         y: 32
         width: 16
         height: 32
@@ -1775,13 +1808,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3dddd267673244dbb2612d10537947d
+      spriteID: eea21efb24a884bf78aea3ffd5d22f2a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_80
+      name: Tilesheet_Buildings_81
       rect:
         serializedVersion: 2
         x: 0
@@ -1795,13 +1828,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8873f6d690fb64ff4ab6958c5c3a3e51
+      spriteID: c65d86c92e8264fc1a6b33cbf17c6a0e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_81
+      name: Tilesheet_Buildings_82
       rect:
         serializedVersion: 2
         x: 16
@@ -1815,13 +1848,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d2da35efb6334c56a56f1a5dc11ce2c
+      spriteID: fa223a0397eb745458a24aae8e6be3ae
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_82
+      name: Tilesheet_Buildings_83
       rect:
         serializedVersion: 2
         x: 32
@@ -1835,13 +1868,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2205f6140b400401c8acac7d788eb0ea
+      spriteID: a9dda8247d54246fdb61c16bd11161da
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_83
+      name: Tilesheet_Buildings_84
       rect:
         serializedVersion: 2
         x: 48
@@ -1855,13 +1888,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b000d9d1362ce4dbfa4eb22e0cf55132
+      spriteID: de6086f7fa0464925ab2af6c4fa4ae61
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_84
+      name: Tilesheet_Buildings_85
       rect:
         serializedVersion: 2
         x: 64
@@ -1875,13 +1908,33 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ff7757f3e73341318bc94e3479a507a
+      spriteID: d2487337899ea4295a3810dc897937d5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tilesheet_Buildings_85
+      name: Tilesheet_Buildings_86
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6164d38e1ddc45f3945d7759b801034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesheet_Buildings_87
       rect:
         serializedVersion: 2
         x: 96
@@ -1895,7 +1948,227 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b1a0a253f69842feaae129f6b42de5e
+      spriteID: 6baacabb06c7b4a67ab3f8978db137a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesheet_Buildings_88
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca74a992becd4017bbb30c684077e3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesheet_Buildings_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55750e719d0ea44d98fee1eaa766b2da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesheet_Buildings_90
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e799950a839e4d7a96132035947b73c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesheet_Buildings_91
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01822d30e566b418eb4352ea87220fb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesheet_Buildings_92
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13434a39f9fc24c6283d3fcebc68c269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesheet_Buildings_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6697d25f7f4948daab36537d3d1a48c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesheet_Buildings_94
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1f030e1b8e54705afa9119888dc89e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesheet_Buildings_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cee88509f6f4f1f84a44f87f41cf1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesheet_Buildings_96
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0df7505611644c10b5b78d6d51a09cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesheet_Buildings_97
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d813d22030c394d12b7b8a9cc29ddc74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesheet_Buildings_98
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4d8a75cf05441c08ac74cee3083448
       vertices: []
       indices: 
       edges: []
