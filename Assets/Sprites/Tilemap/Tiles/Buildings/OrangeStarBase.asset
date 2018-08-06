@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Name: OrangeStarBase
   m_EditorClassIdentifier: 
   m_AnimatedSprites:
-  - {fileID: 21300004, guid: 95ee81d58348f4d1c98baa2143ae4b31, type: 3}
-  - {fileID: 21300044, guid: 95ee81d58348f4d1c98baa2143ae4b31, type: 3}
+  - {fileID: 21300082, guid: 95ee81d58348f4d1c98baa2143ae4b31, type: 3}
   - {fileID: 21300084, guid: 95ee81d58348f4d1c98baa2143ae4b31, type: 3}
-  - {fileID: 21300124, guid: 95ee81d58348f4d1c98baa2143ae4b31, type: 3}
+  - {fileID: 21300086, guid: 95ee81d58348f4d1c98baa2143ae4b31, type: 3}
+  - {fileID: 21300088, guid: 95ee81d58348f4d1c98baa2143ae4b31, type: 3}
   m_MinSpeed: 1
   m_MaxSpeed: 1
   m_AnimationStartTime: 0

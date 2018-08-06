@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Name: OrangeStarAirport
   m_EditorClassIdentifier: 
   m_AnimatedSprites:
-  - {fileID: 21300006, guid: 95ee81d58348f4d1c98baa2143ae4b31, type: 3}
-  - {fileID: 21300046, guid: 95ee81d58348f4d1c98baa2143ae4b31, type: 3}
-  - {fileID: 21300086, guid: 95ee81d58348f4d1c98baa2143ae4b31, type: 3}
+  - {fileID: 21300124, guid: 95ee81d58348f4d1c98baa2143ae4b31, type: 3}
   - {fileID: 21300126, guid: 95ee81d58348f4d1c98baa2143ae4b31, type: 3}
+  - {fileID: 21300128, guid: 95ee81d58348f4d1c98baa2143ae4b31, type: 3}
+  - {fileID: 21300130, guid: 95ee81d58348f4d1c98baa2143ae4b31, type: 3}
   m_MinSpeed: 1
   m_MaxSpeed: 1
   m_AnimationStartTime: 0
