@@ -9,17 +9,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
-  m_Name: Sea_4
+  m_Name: Sea_04
   m_EditorClassIdentifier: 
   m_AnimatedSprites:
+  - {fileID: 21300048, guid: 60b31396275a1487e8d417f5c9d4c1af, type: 3}
+  - {fileID: 21300050, guid: 60b31396275a1487e8d417f5c9d4c1af, type: 3}
+  - {fileID: 21300052, guid: 60b31396275a1487e8d417f5c9d4c1af, type: 3}
+  - {fileID: 21300052, guid: 60b31396275a1487e8d417f5c9d4c1af, type: 3}
+  - {fileID: 21300054, guid: 60b31396275a1487e8d417f5c9d4c1af, type: 3}
   - {fileID: 21300056, guid: 60b31396275a1487e8d417f5c9d4c1af, type: 3}
   - {fileID: 21300058, guid: 60b31396275a1487e8d417f5c9d4c1af, type: 3}
-  - {fileID: 21300060, guid: 60b31396275a1487e8d417f5c9d4c1af, type: 3}
-  - {fileID: 21300060, guid: 60b31396275a1487e8d417f5c9d4c1af, type: 3}
-  - {fileID: 21300062, guid: 60b31396275a1487e8d417f5c9d4c1af, type: 3}
-  - {fileID: 21300064, guid: 60b31396275a1487e8d417f5c9d4c1af, type: 3}
-  - {fileID: 21300066, guid: 60b31396275a1487e8d417f5c9d4c1af, type: 3}
-  - {fileID: 21300066, guid: 60b31396275a1487e8d417f5c9d4c1af, type: 3}
+  - {fileID: 21300058, guid: 60b31396275a1487e8d417f5c9d4c1af, type: 3}
   m_MinSpeed: 1
   m_MaxSpeed: 1
   m_AnimationStartTime: 0
